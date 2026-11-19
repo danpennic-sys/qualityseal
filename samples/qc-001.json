@@ -1,0 +1,13 @@
+{
+  "event_id": "QC-2026-042",
+  "event_type": "inspection",
+  "site": "456 Industrial Blvd, Springfield MO",
+  "client": "Acme Construction",
+  "spec_reference": "ASTM C39 / Section 03300",
+  "notes": "Concrete cylinder break tests complete. All samples meet or exceed specified strength. No deficiencies noted.",
+  "deficiencies": [],
+  "corrective_actions": [],
+  "status": "accepted",
+  "media_hashes": ["sha256-of-test-report.pdf"],
+  "operator": "qc-dan"
+}
